@@ -1,4 +1,5 @@
 ---
+
 - name: Install Chrony Package
   hosts: dev-rhel8-55
   become: true
